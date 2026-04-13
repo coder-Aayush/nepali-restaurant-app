@@ -12,3 +12,6 @@ in `lib/`, and example unit test in `test/`.
 - [ ] Billing functionality (calculateTotal, applyDiscount, applyTax, generateBill)
 - [ ] Search functionality (optional)
 - [ ] push the repo
+//COntributors
+1Reewaz Thapa
+2 flutter
