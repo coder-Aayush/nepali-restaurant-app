@@ -9,6 +9,7 @@ var menuItems = [
   "Chatamari",
 ];
 
+
 var prices = {
   "Momo": 100,
   "Dal Bhat": 150,
@@ -18,4 +19,10 @@ var prices = {
   "Sekuwa": 200,
   "Sel Roti": 80,
   "Chatamari": 160,
+};
+var categories={
+  "Momo":"Snack",
+  "Chowmin":"Snack",
+  "Samosa":"Lunch",
+  "Thukpa":"lunch",
 };
