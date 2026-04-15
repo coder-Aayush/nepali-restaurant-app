@@ -1,4 +1,15 @@
-var menuItems=['Momo','Chowmin','Pizza',"Burger",'Sausage','Samosa','Panipuri','Syabhale','Biryani',"FryRice"];
+var menuItems = [
+  "Momo",
+  "Dal Bhat",
+  "Chowmein",
+  "Samosa",
+  "Thukpa",
+  "Sekuwa",
+  "Sel Roti",
+  "Chatamari",
+];
+
+
 var prices = {
   "Momo": 100,
   "Dal Bhat": 150,
